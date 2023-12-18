@@ -36,4 +36,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 This project was made for the CSD345 Software Development Lab course at Shiv Nadar University, Delhi.
+
 Made by Aryaman Pattnayak, Vaishnav Varma, Yathansh Sharma, Saksham Srivastava, and P.N Tejeswar Sarma.
