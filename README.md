@@ -10,6 +10,8 @@ This project is a multi-functional financial dashboard that provides various fea
 
 - Financial Advisor: The dashboard includes a financial advisor feature that offers personalized recommendations and suggestions based on the user's financial goals.
 
+- All the tools mentioned have been hosted on HuggingFace and are integrated into our webpage.
+
 ## Installation
 
 Clone the repository:
